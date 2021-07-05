@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: volume-emtdir-pod:wq
+  name: volume-emtdir-pod
 spec:
   containers:
   - image: alpine
