@@ -12,6 +12,6 @@ spec:
     - mountPath: /demo
       name: demo-volume
  
- volumes:
+  volumes:
   - name: demo-volume
     emptyDir: {}
